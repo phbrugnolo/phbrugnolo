@@ -8,7 +8,8 @@
 <h3>Minhas Skills</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=CC342D)
+![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=CC0000)
 
 
 [![phbrugnolo GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=phbrugnolo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LucasDNX/lucasdnx)
