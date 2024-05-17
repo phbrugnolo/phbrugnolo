@@ -12,9 +12,9 @@
 ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=CC0000)
 
 
-[![phbrugnolo GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=phbrugnolo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LucasDNX/lucasdnx)
+[![phbrugnolo GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=phbrugnolo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/phbrugnolo/phbrugnolo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbrugnolo&theme=dark&count_private=true)](https://github.com/LucasDNX?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbrugnolo&theme=dark&count_private=true)](https://github.com/phbrugnolo?tab=repositories)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
