@@ -1,4 +1,4 @@
-## Olá! Eu sou Pedro Henrique
+## Olá! Eu me chamo Pedro Henrique Brugnolo
 
 - 🔭 Estudando Ánalise e Desenvolvimento de Sistemas na UP.
 - 🏡 Residente de Curitiba-PR.
