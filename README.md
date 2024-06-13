@@ -3,7 +3,7 @@
 - 🔭 Estudando Ánalise e Desenvolvimento de Sistemas na UP.
 - 🏡 Residente de Curitiba-PR.
 - 👨‍💻 Avançando conhecimentos sobre Ruby on Rails e JavaScript.
-- 🏢 CLT na área de desenvolvimento de sistemas.
+- 🏢 Atuando na área de desenvolvimento de sistemas.
 
 <h3>Minhas Skills</h3>
 
