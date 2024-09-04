@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/java-original.svg" height="40" alt="java logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/java-original.svg](https://github.com/devicons/devicon/tree/v2.16.0/icons/csharp/java-original.svg)" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
