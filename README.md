@@ -8,6 +8,7 @@
 <h3>Minhas Skills</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=CC342D)
 ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=CC0000)
 
