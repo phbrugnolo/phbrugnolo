@@ -7,11 +7,14 @@
 
 <h3>Minhas Skills</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=CC342D)
-![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=CC0000)
-
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+</div>
+ 
+<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phbrugnolo&layout=compact&theme=tokyonight" />
